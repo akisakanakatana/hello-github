@@ -1,2 +1,4 @@
 This is my new github text.
-fun x y z = x z (y z)
+fun S x y z = x z (y z)
+fun K x y = x
+fun I x = x
